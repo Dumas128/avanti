@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GDNYB7QTWAYR33UH645JMBMWANAHCBHXPLDHEJLXJCLDNG52FGKAZ4BX"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="Avanti Coin"
+ORG_URL="https://avanticoin.com/"
+ORG_DESCRIPTION="Your Gateway to the World of Blockchain"
+ORG_TWITTER="@Avanticoin"
+ORG_LOGO="https://i.ibb.co/XWztKkz/avanti.png"
+ORG_OFFICIAL_EMAIL="contact@avanticoin.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="Avanti"
+issuer="GDNYB7QTWAYR33UH645JMBMWANAHCBHXPLDHEJLXJCLDNG52FGKAZ4BX"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
+name="Avanti Coin"
+desc="Avanti is a new governance token that completes the AMPL ecosystem by putting control of the protocol in the hands of the community. Anyone who has interacted with the AMPL ecosystem on-chain is elligible to claim Avanti tokens."
 conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
-fixed_number=2000000
-max_number=2000000
+image="https://i.ibb.co/XWztKkz/avanti.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#Avanti Coin was issued using the open and inclusive Stellar blockchain network.
